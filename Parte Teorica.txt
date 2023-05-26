@@ -1,0 +1,22 @@
+¿qué es un API REST?
+Es un estandar logico y eficiente para el desarrollo web,
+es decir que se crea una interfar de apliaciones para 
+transferir datos.
+por medio de peticiones http a travez del metodo get
+pueden ser publicas o privadas, asi como tambien gratuitas 
+o de paga. 
+
+ ¿cómo interactúan las herramientas, HTML, PHP y 
+JavaScript en un proyecto web?
+HTML se utiliza para la estructuracion de la semantica atravez de las llamadas
+etiqutas.
+Javascrip interactua con los usuarios a travez de la integracion de casillas
+interactivas, menus desplegables ambas herramientas cuando interactuan
+permiten evaluar las interacciones con los usuarios modificando el sitio 
+en tiempo real, esto es posible con un servidor web.
+La programacion php es interpretada por el servidor, en lugar de que codigo fuente de 
+las paginas web dinamicas se le entreguen directamente a dicho servidor,
+este transmite los datos de un interprete php.
+
+
+
